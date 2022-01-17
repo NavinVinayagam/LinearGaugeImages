@@ -1,0 +1,17 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with UXWing SVG Editor - https://uxwing.com/svg-icon-editor/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="514" width="514" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse stroke="#9A8AAB" ry="71" rx="70.500001" id="svg_2" cy="256" cx="255.500003" stroke-width="0.001" fill="#1919e5"/>
+  <ellipse rx="0.5" id="svg_5" cy="230" cx="209.5" fill-opacity="null" stroke-opacity="null" stroke-width="0.001" stroke="#9A8AAB" fill="#1919e5"/>
+  <ellipse opacity="0" id="svg_6" cy="247" cx="223" fill-opacity="null" stroke-opacity="null" stroke-width="0.001" stroke="#9A8AAB" fill="#1919e5"/>
+  <path stroke="#ffffff" transform="rotate(-0.2444305270910263 255.63998413084448,255.50897216796844) " id="svg_8" d="m0.165606,255.508963l0,0c0,-141.113412 114.379792,-255.50846 255.474386,-255.50846l0,0c67.755991,0 132.73693,26.919549 180.647637,74.836679c47.910758,47.917148 74.82675,112.906702 74.82675,180.671781l0,0c0,141.113396 -114.379792,255.50846 -255.474387,255.50846l0,0c-141.094577,0 -255.474386,-114.395064 -255.474386,-255.50846zm127.737193,0l0,0c0,70.556689 57.18993,127.75423 127.737193,127.75423c70.547315,0 129.749974,-60.188982 127.737194,-127.75423c-2.01278,-67.565249 -57.189913,-127.75423 -127.737194,-127.75423l0,0c-70.547263,0 -127.737193,57.197558 -127.737193,127.75423z" stroke-opacity="null" stroke-width="0.001" fill="#0000ff"/>
+ </g>
+</svg>
