@@ -1,0 +1,19 @@
+{
+    "name": "ej2-lineargauge",
+    "version": "19.4.43",
+    "components": [
+        "numerictextbox",
+        "linear-gauge"
+    ],
+    "injectables": {
+        "linear-gauge": [
+            "GaugeTooltip",
+            "Annotations",
+            "Gradient"
+        ]
+    },
+    "minified": true,
+    "themes": [
+        "material"
+    ]
+}
